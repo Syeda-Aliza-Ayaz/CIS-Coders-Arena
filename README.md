@@ -113,7 +113,7 @@ Each activity folder contains 2 carefully crafted solutions, demonstrating progr
 ### **Core Technologies**
 - **Language**: C++17
 - **Data Structures**: `vector`, `map`, `set`, `string`
-- **Libraries**: `<iostream>`, `<cctype>`, `<iomanip>`, `<ctime>`
+- **Libraries**: `<iostream>`, `<cctype>`, `<iomanip>`, `<ctime>`, `<stdexcept>`, `<cstdlib>`
 
 ### **Programming Concepts Demonstrated**
 - ✅ **Input Validation** - Robust user input handling

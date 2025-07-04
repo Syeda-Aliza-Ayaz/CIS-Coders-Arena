@@ -376,23 +376,23 @@ Here are my implemented solutions organized by activity and completion timeline:
 
 ## 📚 Repository Structure
 
-CIS-Coders-Arena/
-├── README.md
-├── Round 1 Activity 1/
-│ ├── mario_structure.cpp
-│ └── double_pyramid.cpp
-├── Round 1 Activity 2/
-│ ├── scrabble.cpp
-│ └── scrabble_tournament.cpp
-├── Round 1 Activity 3/
-│ ├── billing_system.cpp
-│ └── plurality_voting.cpp
-├── Round 1 Activity 4/
-│ ├── substitution.cpp
-│ └── little_professor_math_game.cpp
-└── Round 1 Activity 5/
-├── hangman_game.py
-└── LOC_of_programs.py
+CIS-Coders-Arena/  
+├── README.md  
+├── Round 1 Activity 1/  
+│ ├── mario_structure.cpp  
+│ └── double_pyramid.cpp  
+├── Round 1 Activity 2/  
+│ ├── scrabble.cpp  
+│ └── scrabble_tournament.cpp  
+├── Round 1 Activity 3/  
+│ ├── billing_system.cpp  
+│ └── plurality_voting.cpp  
+├── Round 1 Activity 4/  
+│ ├── substitution.cpp  
+│ └── little_professor_math_game.cpp  
+└── Round 1 Activity 5/  
+├── hangman_game.py  
+└── LOC_of_programs.py  
 
 
 ---

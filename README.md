@@ -414,6 +414,7 @@ CIS-Coders-Arena/
 - dolphin
 - wizard
 - astronaut
+![Hangman Game](images/hangman.png)
 
 ---
 

@@ -299,9 +299,9 @@ Here are my implemented solutions organized by activity and completion timeline:
 
 #### **Round 1 Activity 3** ✅ *(Completed: June 28, 2025 9:17 PM)*  
 🟢 *Implemented advanced algorithms with business applications for billing and elections.*  
-![Billing System](images/billing system.png)  
-🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
-![Plurality Voting](images/plurality voting.png)
+![Billing System](images/billing%20system.png)  
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+![Plurality Voting](images/plurality%20voting.png)
 
 #### **Round 1 Activity 4** ✅ *(Completed: July 1, 2025 5:11 PM)*  
 🟢 *Learned cryptography (substitution cipher) and developed an educational math game.*  
@@ -310,7 +310,7 @@ Here are my implemented solutions organized by activity and completion timeline:
 #### **Round 1 Activity 5** ✅ *(Completed: July 4, 2025 3:45 PM)*  
 🟢 *Built an interactive Hangman word guessing game and a Python benchmark tool for LOC analysis.*  
 ![LOC Analyzer](images/LOC.png)  
-🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 ![Hangman Game](images/hangman.png)
 ---
 

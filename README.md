@@ -1,4 +1,4 @@
-# CIS Coders Arena 🏆
+<!-- # CIS Coders Arena 🏆
 
 > *"The best way to learn programming is not to rush through problems, but to understand each line of code you write."*
 
@@ -221,4 +221,224 @@ This repository reflects my commitment to:
 
 **Connect with me**: Feel free to explore the code, suggest improvements, or discuss any of these implementations!
 
+ -->
+# CIS Coders Arena 🏆
 
+[![C++17](https://img.shields.io/badge/C%2B%2B-17-blue.svg)](https://en.cppreference.com)
+[![Python 3](https://img.shields.io/badge/Python-3.10-green.svg)](https://www.python.org)
+[![Last Updated](https://img.shields.io/badge/Last%20Update-July%204%2C%202025-orange)]()
+[![Connect](https://img.shields.io/badge/LinkedIn-Say%20Hi-blue?logo=linkedin)](https://linkedin.com/in/YOUR_USERNAME)
+
+> *"The best way to learn programming is not to rush through problems, but to understand each line of code you write."*
+
+Welcome to my **CIS Coders Arena** repository! This documents my journey through a unique coding practice program that redefines what competitive programming should be about.
+
+---
+
+## 📑 Table of Contents
+
+- [About CIS Coders Arena](#about-cis-coders-arena)
+- [Program Structure](#program-structure)
+- [Solutions Overview](#solutions-overview)
+- [Featured Solution Highlights](#featured-solution-highlights)
+- [Technical Highlights](#technical-highlights)
+- [Current Status & Progress Timeline](#current-status--progress-timeline)
+- [Repository Structure](#repository-structure)
+- [🧪 Test Cases](#-test-cases)
+- [🌟 Why This Matters](#-why-this-matters)
+- [Philosophy](#philosophy)
+
+---
+
+## 📋 About CIS Coders Arena
+
+**CIS Coders Arena** is far more than a typical coding contest — it's a philosophy-driven learning experience.
+
+This arena emphasizes:
+
+- 🎯 **Integrity First** — honest problem-solving over quick shortcuts  
+- 🕰️ **Consistency Over Speed** — regular practice beats cramming  
+- 🧩 **Deep Understanding** — quality solutions over quantity  
+- 🚀 **Personal Growth** — individual progress over competition  
+- 🧘 **Mindful Learning** — staying focused on the journey, not just the destination
+
+---
+
+## 🗂️ Program Structure
+
+The arena is divided into **3 rounds** with activities spaced 2 days apart:
+
+### 🔥 Round 1 (Activities 1–5)
+- **5 Activities** with 2 questions each
+- **Current Progress**: Activity 5 ✅
+- *Focus:* Fundamental programming concepts
+
+### 🚀 Round 2 (Activities 6–9)
+- **4 Activities**
+- *Focus:* *to be revealed*
+
+### 🏅 Round 3 (Activities 10–11)
+- **2 Final Activities**
+- *Focus:* *to be revealed*
+
+---
+
+## 💻 Solutions Overview
+
+Here are my implemented solutions organized by activity and completion timeline:
+
+### 📁 **Activity-Based Organization**
+
+#### **Round 1 Activity 1** ✅ *(Completed: June 22, 2025 6:32 PM)*  
+🟢 *Mastered core input/output, control structures, and nested loops through classic pattern programs.*  
+![Mario Patterns](images/mario_building.png)
+
+#### **Round 1 Activity 2** ✅ *(Completed: June 25, 2025 12:01 PM)*  
+🟢 *Practiced data structures (arrays, maps) with scoring systems and tournament logic.*  
+![Scrabble Tournament](images/scrabble_tournament.png)
+
+#### **Round 1 Activity 3** ✅ *(Completed: June 28, 2025 9:17 PM)*  
+🟢 *Implemented advanced algorithms with business applications for billing and elections.*  
+![Billing System](images/billing_system.png)  
+![Plurality Voting](images/plurality_voting.png)
+
+#### **Round 1 Activity 4** ✅ *(Completed: July 1, 2025 5:11 PM)*  
+🟢 *Learned cryptography (substitution cipher) and developed an educational math game.*  
+![Little Professor](images/little_prof_game.png)
+
+#### **Round 1 Activity 5** ✅ *(Completed: July 4, 2025 3:45 PM)*  
+🟢 *Built an interactive Hangman word guessing game and a Python benchmark tool for LOC analysis.*  
+![LOC Analyzer](images/LOC.png)  
+<video controls src="images/hangman.mp4"></video>
+
+---
+
+## 🔧 **Featured Solution Highlights**
+
+### 🎯 **Pattern Generation & ASCII Art**
+- [x] `mario_structure.cpp` — multi-structure pattern generator  
+- [x] `double_pyramid.cpp` — connected double pyramids with validation
+
+### 🎮 **Game Development**
+- [x] `scrabble.cpp` — two-player Scrabble scoring  
+- [x] `scrabble_tournament.cpp` — extended tournament logic  
+- [x] `little_professor_math_game.cpp` — math game with difficulty levels  
+  ![Little Professor](images/little_prof_game.png)
+- [x] `hangman_game.py` — classic Hangman with scoring  
+  <video controls src="images/hangman.mp4"></video>
+
+### 🛒 **Business Applications**
+- [x] `billing_system.cpp` — retail billing simulation  
+- [x] `plurality_voting.cpp` — secure democratic voting system
+
+### 🔐 **Cryptography & Security**
+- [x] `substitution.cpp` — robust substitution cipher
+
+### 📊 **Benchmark & Analysis**
+- [x] `LOC_of_programs.py` — line-of-code analyzer with performance timing  
+  ![LOC Analyzer](images/LOC.png)
+
+---
+
+## 🛠️ Technical Highlights
+
+### 🛠️ **Core Technologies**
+- **Languages:** C++17 & Python 3  
+- **Data Structures:** `vector`, `map`, `set`, `string`, Python `list`/`set`  
+- **Libraries:** `<iostream>`, `<cctype>`, `<iomanip>`, `<ctime>`, `<stdexcept>`, `<cstdlib>`, `random`, `time`, `os`
+
+### 🧩 **Programming Concepts Demonstrated**
+- ✅ Input Validation  
+- ✅ Exception Handling  
+- ✅ STL Containers & Python Built-ins  
+- ✅ String Manipulation  
+- ✅ Random Number Generation  
+- ✅ Command Line Arguments  
+- ✅ File I/O Concepts  
+- ✅ Algorithm Design  
+- ✅ Performance Benchmarking
+
+---
+
+## 🎯 Current Status & Progress Timeline
+
+| Activity                | Status     | Completion Date              | Progress |
+|-------------------------|------------|------------------------------|----------|
+| **Round 1 Activity 1**  | ✅ Complete | June 22, 2025 6:32 PM       | 🟢 |
+| **Round 1 Activity 2**  | ✅ Complete | June 25, 2025 12:01 PM      | 🟢 |
+| **Round 1 Activity 3**  | ✅ Complete | June 28, 2025 9:17 PM       | 🟢 |
+| **Round 1 Activity 4**  | ✅ Complete | July 1, 2025 5:11 PM        | 🟢 |
+| **Round 1 Activity 5**  | ✅ Complete | July 4, 2025 3:45 PM        | 🟢 |
+
+**Next Milestone:** Begin Round 2 (Activity 6)
+
+---
+
+## 📚 Repository Structure
+
+CIS-Coders-Arena/
+├── README.md
+├── Round 1 Activity 1/
+│ ├── mario_structure.cpp
+│ └── double_pyramid.cpp
+├── Round 1 Activity 2/
+│ ├── scrabble.cpp
+│ └── scrabble_tournament.cpp
+├── Round 1 Activity 3/
+│ ├── billing_system.cpp
+│ └── plurality_voting.cpp
+├── Round 1 Activity 4/
+│ ├── substitution.cpp
+│ └── little_professor_math_game.cpp
+└── Round 1 Activity 5/
+├── hangman_game.py
+└── LOC_of_programs.py
+
+
+---
+
+## 🧪 Test Cases
+
+### 📊 LOC Analyzer Example
+| Filename         | LOC  | Time         |
+|------------------|------|--------------|
+| sample1.py       | 120  | 0.002 sec    |
+| empty_file.py    | 0    | 0.000 sec    |
+| large_project.py | 4200 | 0.045 sec    |
+
+> *Observation:* As expected, larger files took slightly longer to process.  
+![LOC Analyzer](images/LOC.png)
+
+### 🎮 Hangman Example Words
+- dolphin
+- wizard
+- astronaut
+
+---
+
+## 🌟 Why This Matters
+
+Participating in the **CIS Coders Arena** has helped me build:  
+- Strong analytical thinking  
+- Consistent problem decomposition  
+- Resilience in debugging  
+- Communication through peer reviews  
+- A growth mindset  
+
+These skills go far beyond programming — they apply to **any** technology career and show commitment to continuous learning.
+
+---
+
+## 💡 Philosophy
+
+This repository reflects my commitment to:  
+- ✅ **Consistent Learning** over rushed solutions  
+- ✅ **Code Quality** over quantity  
+- ✅ **Understanding Concepts** deeply rather than memorizing patterns  
+- ✅ **Honest Practice** and genuine skill development
+
+---
+
+*"Stay focused and keep coding! 🚀"*  
+
+[![Connect](https://img.shields.io/badge/LinkedIn-Say%20Hi-blue?logo=linkedin)](https://www.linkedin.com/in/syeda-aliza-ayaz/)

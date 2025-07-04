@@ -309,7 +309,7 @@ Here are my implemented solutions organized by activity and completion timeline:
 #### **Round 1 Activity 5** ✅ *(Completed: July 4, 2025 3:45 PM)*  
 🟢 *Built an interactive Hangman word guessing game and a Python benchmark tool for LOC analysis.*  
 ![LOC Analyzer](images/LOC.png)  
-[Hangman Game](./images/hangman.png)
+![Hangman Game](images/hangman.png)
 ---
 
 ## 🔧 **Featured Solution Highlights**

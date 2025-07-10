@@ -270,12 +270,12 @@ The arena is divided into **3 rounds** with activities spaced 2 days apart:
 
 ### 🔥 Round 1 (Activities 1–5)
 - **5 Activities** with 2 questions each
-- **Current Progress**: Activity 5 ✅
+- **Current Progress**: All activities done ✅
 - *Focus:* Fundamental programming concepts
 
 ### 🚀 Round 2 (Activities 6–9)
 - **4 Activities**
-- *Current Progress:* Activity 6 ✅
+- **Current Progress:** Activity 6 ✅
 - *Focus:* Game development, multi-file code structure, logging, and real-world simulation
 
 ### 🏅 Round 3 (Activities 10–11)
@@ -314,7 +314,7 @@ Here are my implemented solutions organized by activity and completion timeline:
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 ![Hangman Game](images/hangman.png)
 
-#### ✅ Round 2 Activity 6 *(Completed: July 10, 2025)*
+#### **Round 2 Activity 6** ✅ *(Completed: July 10, 2025 10:17 PM)*
 🟢 *Developed a modular text-based adventure game in C++ with real-time logging, game state tracking, and win/lose conditions.*
 
 **Project Files:**
@@ -344,7 +344,7 @@ Here are my implemented solutions organized by activity and completion timeline:
   ![Little Professor](images/little_prof_game.png)
 - [x] `hangman_game.py` — classic Hangman with scoring  
   <video controls src="images/hangman.mp4"></video>
-- [x] `adventure_quest` (Activity 6) — full-scale text-based game with logging and modular design
+- [x] `game.cpp` — full-scale text-based game with logging and modular design
 
 ### 🛒 **Business Applications**
 - [x] `billing_system.cpp` — retail billing simulation  
@@ -445,12 +445,14 @@ CIS-Coders-Arena/
 
 ### 📓 Adventure Game Logging Preview
 ```txt
-🎮 GAME BEGINS!
-📍 Visited: Village
-🧑‍🤝‍🧑 warrior joined your party.
-✨ Gained a life. Lives remaining: 4
-😢 Lost 5 coins. Total: 12
+📜 GAME SUMMARY 📜
+------------------------
 💀 YOU DIED!
+📍 Final Location: Forest
+🪙 Coins Collected: 30
+❤️ Lives Remaining: 0
+🧑‍🤝‍🧑 Party Members: warrior 
+------------------------
 ```
 > *Observation:* Game dynamically tracks user state and writes logs to `game_log.txt`
 

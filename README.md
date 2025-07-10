@@ -226,7 +226,7 @@ This repository reflects my commitment to:
 
 [![C++17](https://img.shields.io/badge/C%2B%2B-17-blue.svg)](https://en.cppreference.com)
 [![Python 3](https://img.shields.io/badge/Python-3.10-green.svg)](https://www.python.org)
-[![Last Updated](https://img.shields.io/badge/Last%20Update-July%204%2C%202025-orange)]()
+[![Last Updated](https://img.shields.io/badge/Last%20Update-July%2010%2C%202025-orange)]()
 [![Connect](https://img.shields.io/badge/LinkedIn-Say%20Hi-blue?logo=linkedin)](https://www.linkedin.com/in/syeda-aliza-ayaz/)
 
 > *"The best way to learn programming is not to rush through problems, but to understand each line of code you write."*

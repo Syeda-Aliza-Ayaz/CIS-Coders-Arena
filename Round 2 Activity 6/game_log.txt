@@ -1,0 +1,69 @@
+🎮 GAME BEGINS!
+🏘️ Player entered the Village.
+🍺 Player entered the Tavern.
+🥷🏻 Player met a warrior.
+🧑‍🤝‍🧑 warrior joined your party.
+🥷🏻 Warrior joined for free.
+🌲 Player entered the Forest.
+🎁 Player opened the chest.
+❤️‍🩹 Player found health potion.
+✨ Gained a life. Lives remaining: 4
+🏔️ Player climbed mountains.
+⛈️ It is rainy in mountains.
+💀 Player slipped.
+🗡️ Lost a life. Lives remaining: 3
+🏘️ Player entered the Village.
+🍺 Player entered the Tavern.
+🥷🏻 Warrior is already with you.
+🌲 Player entered the Forest.
+🎁 Player opened the chest.
+❤️‍🩹 Player found health potion.
+✨ Gained a life. Lives remaining: 4
+🏔️ Player climbed mountains.
+⛈️ It is rainy in mountains.
+💀 Player slipped.
+🗡️ Lost a life. Lives remaining: 3
+🌲 Player entered the Forest.
+🧙‍♂️ Player met a mage.
+🧙‍♂️ Mage left.
+🏘️ Player entered the Village.
+🌲 Player entered the Forest.
+🧙‍♂️ Player met a mage.
+🧙‍♂️ Mage left.
+🏔️ Player climbed mountains.
+⛈️ It is rainy in mountains.
+💀 Player slipped.
+🗡️ Lost a life. Lives remaining: 2
+🏘️ Player entered the Village.
+🌲 Player entered the Forest.
+🎁 Player opened the chest.
+💔 Player fell into trap.
+🗡️ Lost a life. Lives remaining: 1
+🏘️ Player entered the Village.
+🌲 Player entered the Forest.
+🧙‍♂️ Player met a mage.
+🧙‍♂️ Mage left.
+🏘️ Player entered the Village.
+🌲 Player entered the Forest.
+🧙‍♂️ Player met a mage.
+🏘️ Player entered the Village.
+🌲 Player entered the Forest.
+🎁 Player opened the chest.
+🪙 Player found 20 coins.
+🎉 Added 20 coins. Total: 30
+🏘️ Player entered the Village.
+🌲 Player entered the Forest.
+🎁 Player opened the chest.
+💔 Player fell into trap.
+🗡️ Lost a life. Lives remaining: 0
+☠️ Player died. Game over.
+
+📜 GAME SUMMARY 📜
+------------------------
+💀 YOU DIED!
+📍 Final Location: Forest
+🪙 Coins Collected: 30
+❤️ Lives Remaining: 0
+🧑‍🤝‍🧑 Party Members: warrior 
+------------------------
+

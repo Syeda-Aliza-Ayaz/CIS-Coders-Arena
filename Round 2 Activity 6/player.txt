@@ -1,0 +1,101 @@
+class Player{
+    private:
+        int coins;
+        int lives;
+        string lastLocation;
+        vector<string> party;
+        vector<string> treasure_items = {"trap", "health", "coins"};
+    public:
+        Player(){ //initial conditions
+            coins = 10;
+            lives = 3;
+            lastLocation = "";
+        }
+        void addCoins(int amount){
+            coins += amount;
+            cout << "🎉" << amount << " coins added. Total Coins: " << coins << endl;
+            logEvent("🎉 Added " + to_string(amount) + " coins. Total: " + to_string(coins));
+        }
+        void loseCoins(int amount){
+            if(amount < coins){
+                coins -= amount;
+                cout << "😢" << amount << " coins lost. Total Coins: " << coins << endl;
+                logEvent("😢 Lost " + to_string(amount) + " coins. Total: " + to_string(coins));
+            }
+            else{
+                throw invalid_argument("Cannot have negative coins");
+            }
+        }
+        void gainLife(){
+            lives++;
+            cout << "✨ You gained a life! Lives remaining: " << lives << endl;
+            logEvent("✨ Gained a life. Lives remaining: " + to_string(lives));
+        }
+        void loseLife(){
+            lives--;
+            cout << "🗡️ You lost a life! Lives remaining: " << lives << endl;
+            logEvent("🗡️ Lost a life. Lives remaining: " + to_string(lives));
+        }
+        bool checkWinCondition(){
+            if(coins >= 30 && lives >= 1 && hasPartyMember("warrior") && (hasPartyMember("mage") || hasPartyMember("healer"))){
+                return true;
+            }
+            else{
+                return false;
+            }
+        }
+        bool checkLoseCondition(){
+            if(lives <= 0){
+                return true;
+            }
+            else{
+                return false;
+            }
+        }
+        bool hasPartyMember(string name){
+            for(auto& player : party){
+                if(player == tolower(name)){
+                    return true;
+                }
+            }
+            return false;
+        }
+        void addToParty(string player){
+            player = tolower(player);
+            if(find(party.begin(), party.end(), player) == party.end()){
+                party.push_back(player);
+                cout << "🧑‍🤝‍🧑 " << player << " joined your party!" << endl;
+                logEvent("🧑‍🤝‍🧑 " + player + " joined your party.");
+            }
+        }
+        void setLocation(const string& loc){
+            lastLocation = loc;
+        }
+        int getLives(){
+            return lives;
+        }
+        int getCoins(){
+            return coins;
+        }
+        string getLocation(){
+            return lastLocation;
+        }
+        vector<string> getParty() {
+            return party;
+        }
+        string getTreasureItem(int index){
+            return treasure_items[index];
+        }
+        void showStatus(){
+            cout << "-----------------------------------------------------------\n";
+            cout << "🧍 Coins: " << coins << ", Lives: " << lives;
+            if(!party.empty()){
+                cout << ", Party: ";
+                for(auto member : party){
+                    cout << member << " ";
+                }
+            }
+            cout << endl;
+            cout << "-----------------------------------------------------------\n";
+        }
+};

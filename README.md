@@ -275,7 +275,8 @@ The arena is divided into **3 rounds** with activities spaced 2 days apart:
 
 ### 🚀 Round 2 (Activities 6–9)
 - **4 Activities**
-- *Focus:* *to be revealed*
+- *Current Progress:* Activity 6 ✅
+- *Focus:* Game development, multi-file code structure, logging, and real-world simulation
 
 ### 🏅 Round 3 (Activities 10–11)
 - **2 Final Activities**
@@ -312,6 +313,22 @@ Here are my implemented solutions organized by activity and completion timeline:
 ![LOC Analyzer](images/LOC.png)  
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 ![Hangman Game](images/hangman.png)
+
+#### ✅ Round 2 Activity 6 *(Completed: July 10, 2025)*
+🟢 *Developed a modular text-based adventure game in C++ with real-time logging, game state tracking, and win/lose conditions.*
+
+**Project Files:**
+- `main.cpp` — main game loop and flow control
+- `game.cpp` — modular game logic and player class
+- `game_log.txt` — logs major in-game events (e.g., lives, coins, party members)
+- `main.exe` — compiled executable (Windows)
+
+**Concepts Practiced:**
+- Multi-file C++ project structure
+- File I/O for persistent logging
+- Randomized game mechanics
+- Object-oriented design (Player class)
+- Dynamic state transitions (win/lose)
 ---
 
 ## 🔧 **Featured Solution Highlights**
@@ -327,6 +344,7 @@ Here are my implemented solutions organized by activity and completion timeline:
   ![Little Professor](images/little_prof_game.png)
 - [x] `hangman_game.py` — classic Hangman with scoring  
   <video controls src="images/hangman.mp4"></video>
+- [x] `adventure_quest` (Activity 6) — full-scale text-based game with logging and modular design
 
 ### 🛒 **Business Applications**
 - [x] `billing_system.cpp` — retail billing simulation  
@@ -346,7 +364,7 @@ Here are my implemented solutions organized by activity and completion timeline:
 ### 🛠️ **Core Technologies**
 - **Languages:** C++17 & Python 3  
 - **Data Structures:** `vector`, `map`, `set`, `string`, Python `list`/`set`  
-- **Libraries:** `<iostream>`, `<cctype>`, `<iomanip>`, `<ctime>`, `<stdexcept>`, `<cstdlib>`, `random`, `time`, `os`
+- **Libraries:** `<iostream>`, `<fstream>`, `<iomanip>`, `<cstdlib>`, `<ctime>`, `<algorithm>`, `random`, `time`, `os`
 
 ### 🧩 **Programming Concepts Demonstrated**
 - ✅ Input Validation  
@@ -356,8 +374,12 @@ Here are my implemented solutions organized by activity and completion timeline:
 - ✅ Random Number Generation  
 - ✅ Command Line Arguments  
 - ✅ File I/O Concepts  
+- ✅ File I/O Logging Concepts  
 - ✅ Algorithm Design  
 - ✅ Performance Benchmarking
+- ✅ Game Mechanics with RNG 
+- ✅ Game Mechanics with RNG 
+- ✅ Object-Oriented Programming  
 
 ---
 
@@ -370,8 +392,9 @@ Here are my implemented solutions organized by activity and completion timeline:
 | **Round 1 Activity 3**  | ✅ Complete | June 28, 2025 9:17 PM       | 🟢 |
 | **Round 1 Activity 4**  | ✅ Complete | July 1, 2025 5:11 PM        | 🟢 |
 | **Round 1 Activity 5**  | ✅ Complete | July 4, 2025 3:45 PM        | 🟢 |
+| **Round 2 Activity 6**  | ✅ Complete | July 10, 2025 10:17 PM      | 🟢 |
 
-**Next Milestone:** Begin Round 2 (Activity 6)
+**Next Milestone:** Move to Activity 7
 
 ---
 
@@ -394,7 +417,11 @@ CIS-Coders-Arena/
 └── Round 1 Activity 5/  
 │   ├── hangman_game.py  
 │   └── LOC_of_programs.py  
-
+└── Round 2 Activity 6/  
+    ├── main.cpp  
+    ├── game.cpp  
+    ├── game_log.txt  
+    └── main.exe  
 
 ---
 
@@ -416,6 +443,18 @@ CIS-Coders-Arena/
 - astronaut
 ![Hangman Game](images/hangman.png)
 
+### 📓 Adventure Game Logging Preview
+```txt
+🎮 GAME BEGINS!
+📍 Visited: Village
+🧑‍🤝‍🧑 warrior joined your party.
+✨ Gained a life. Lives remaining: 4
+😢 Lost 5 coins. Total: 12
+💀 YOU DIED!
+```
+> *Observation:* Game dynamically tracks user state and writes logs to `game_log.txt`
+
+
 ---
 
 ## 🌟 Why This Matters
@@ -425,7 +464,9 @@ Participating in the **CIS Coders Arena** has helped me build:
 - Consistent problem decomposition  
 - Resilience in debugging  
 - Communication through peer reviews  
-- A growth mindset  
+- A growth mindset 
+- Confidence in large project structure  
+- Cross-platform testing and file-based output 
 
 These skills go far beyond programming — they apply to **any** technology career and show commitment to continuous learning.
 

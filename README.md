@@ -11,6 +11,7 @@ Welcome to my **CIS Coders Arena** repository! This documents my journey through
 
 ---
 
+<a name="table-of-contents"></a>
 ## 📑 Table of Contents
 
 - [About CIS Coders Arena](#about-cis-coders-arena)
@@ -27,6 +28,7 @@ Welcome to my **CIS Coders Arena** repository! This documents my journey through
 
 ---
 
+<a name="about-cis-coders-arena"></a>
 ## 📋 About CIS Coders Arena
 
 **CIS Coders Arena** is far more than a typical coding contest — it's a philosophy-driven learning experience.
@@ -41,6 +43,7 @@ This arena emphasizes:
 
 ---
 
+<a name="program-structure"></a>
 ## 🗂️ Program Structure
 
 The arena is divided into **3 rounds** with activities spaced 2 days apart:
@@ -61,6 +64,7 @@ The arena is divided into **3 rounds** with activities spaced 2 days apart:
 
 ---
 
+<a name="solutions-overview"></a>
 ## 💻 Solutions Overview
 
 Here are my implemented solutions organized by activity and completion timeline:
@@ -177,6 +181,7 @@ Here are my implemented solutions organized by activity and completion timeline:
 
 ---
 
+<a name="featured-solution-highlights"></a>
 ## 🔧 **Featured Solution Highlights**
 
 ### 🎯 **Pattern Generation & ASCII Art**
@@ -209,6 +214,7 @@ Here are my implemented solutions organized by activity and completion timeline:
 
 ---
 
+<a name="technical-highlights"></a>
 ## 🛠️ Technical Highlights
 
 ### 🛠️ **Core Technologies**
@@ -234,6 +240,7 @@ Here are my implemented solutions organized by activity and completion timeline:
 
 ---
 
+<a name="how-to-run"></a>
 ## 🚀 How to Run
 
 You can run the programs in this repository using either C++ or Python, depending on the file type.
@@ -287,6 +294,7 @@ python "Round 2 Activity 8\speed_typing_test.py"
 
 ---
 
+<a name="current-status--progress-timeline"></a>
 ## 🎯 Current Status & Progress Timeline
 
 | Activity                | Status     | Completion Date              | Progress |
@@ -304,6 +312,7 @@ python "Round 2 Activity 8\speed_typing_test.py"
 
 ---
 
+<a name="repository-structure"></a>
 ## 📚 Repository Structure
 
 CIS-Coders-Arena/  
@@ -339,6 +348,7 @@ CIS-Coders-Arena/
     └── text.txt
 ---
 
+<a name="-test-cases"></a>
 ## 🧪 Test Cases
 
 This section provides sample outputs and test scenarios to validate the functionality of key projects.  
@@ -375,6 +385,7 @@ This section provides sample outputs and test scenarios to validate the function
 
 ---
 
+<a name="-why-this-matters"></a>
 ## 🌟 Why This Matters
 
 Participating in the **CIS Coders Arena** has helped me build:  
@@ -390,6 +401,7 @@ These skills go far beyond programming — they apply to **any** technology care
 
 ---
 
+<a name="philosophy"></a>
 ## 💡 Philosophy
 
 This repository reflects my commitment to:  

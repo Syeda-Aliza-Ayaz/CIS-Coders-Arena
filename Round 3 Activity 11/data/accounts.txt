@@ -1,0 +1,3 @@
+username|password|balance
+aliza|123456|4000.00
+aliza_ayaz|abcdef|5000.00

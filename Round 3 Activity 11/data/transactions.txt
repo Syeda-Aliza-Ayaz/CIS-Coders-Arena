@@ -1,0 +1,5 @@
+username|activity|balance deposited/withdrawn|balance remaining
+aliza|Deposit|10000.0|10000.00
+aliza|Withdraw|1000.0|9000.00
+aliza|Transfer to aliza_ayaz|5000.0|4000.00
+aliza_ayaz|Received from aliza|5000.0|5000.00

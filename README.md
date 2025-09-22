@@ -626,7 +626,8 @@ This arena was my launchpad; now I'm geared up for bigger quests:
 - **Portfolio Power-Ups**: Polishing favorites like Mind Master for hackathons—adding multiplayer or AI opponents for that extra "wow."
 
 If you're inspired by this journey, let's connect—I'm always up for collaborating on the next big idea. Thanks for exploring my arena; here's to coding with purpose and endless curiosity! 🚀
-![Trophy Celebration]([images/victory.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTRucDZqYmg1cnpncHF5NmNvenJ3cTc1N2ZhaGFmejRhYjRmbTI1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26u4exk4zsAqPcq08/giphy.gif)
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTRucDZqYmg1cnpncHF5NmNvenJ3cTc1N2ZhaGFmejRhYjRmbTI1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26u4exk4zsAqPcq08/giphy.gif" alt="Trophy Celebration">
 ---
 <a name="license"></a>
 ## 📜 License

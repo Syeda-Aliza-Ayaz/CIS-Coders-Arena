@@ -2,7 +2,7 @@
 
 [![C++17](https://img.shields.io/badge/C%2B%2B-17-blue.svg)](https://en.cppreference.com)
 [![Python 3](https://img.shields.io/badge/Python-3.10-green.svg)](https://www.python.org)
-[![Last Updated](https://img.shields.io/badge/Last%20Update-July%2016%2C%202025-orange)]()
+[![Last Updated](https://img.shields.io/badge/Last%20Update-July%2027%2C%202025-orange)]()
 [![Connect](https://img.shields.io/badge/LinkedIn-Say%20Hi-blue?logo=linkedin)](https://www.linkedin.com/in/syeda-aliza-ayaz/)
 
 > *"The best way to learn programming is not to rush through problems, but to understand each line of code you write."*
@@ -25,6 +25,7 @@ Welcome to my **CIS Coders Arena** repository! This documents my journey through
 - [🧪 Test Cases](#-test-cases)
 - [🌟 Why This Matters](#-why-this-matters)
 - [Philosophy](#philosophy)
+- [Victory Lap](#victory-lap)
 
 ---
 
@@ -55,12 +56,13 @@ The arena is divided into **3 rounds** with activities spaced 2 days apart:
 
 ### 🚀 Round 2 (Activities 6–9)
 - **4 Activities**
-- **Current Progress:** Activity 8 ✅
+- **Current Progress:** All activities done ✅
 - *Focus:* Game development, multi-file code structure, logging, file I/O, real-world coding scenarios and simulation
 
 ### 🏅 Round 3 (Activities 10–11)
-- **2 Final Activities**
-- *Focus:* *to be revealed*
+- **2 Activities**
+- **Current Progress:** All activities done ✅
+- *Focus:* Advanced game mechanics, real-world system simulations, and voting systems
 
 ---
 
@@ -179,6 +181,63 @@ Here are my implemented solutions organized by activity and completion timeline:
 
 **Key Learnings:** Improved real-time user feedback and validated mathematical edge cases.
 
+### **Round 2 Activity 9 ✅** *(Completed: July 19, 2025 6:03 PM)*
+
+🟢 *Developed real-world simulation systems for retail and parking management in C++.*
+
+**Projects:**
+
+**Imtiaz Billing System (C++)**
+- Simulates a retail billing system with a product inventory and credit card payment processing
+- Implements discount codes (flat and percentage-based) and Luhn's algorithm for card validation
+- Uses OOP with classes for Product, Cart, and CreditCard
+- Features a comprehensive inventory with grocery, personal care, household, and other categories
+
+**Parking Management System (C++)**
+- Manages a parking lot with VIP, general, and handicapped sections
+- Tracks car parking/removal, revenue, and capacity using classes and STL containers
+- Implements case-insensitive category handling and formatted status display
+
+**Key Learnings:** Mastered complex OOP designs, STL container usage, and real-world system simulation.
+
+### **Round 3 Activity 10** ✅ *(Completed: July 24, 2025 6:48 PM)*
+
+🟢 *Built interactive games with advanced mechanics and user feedback in Python.*
+
+**Projects:**
+
+**Tic-Tac-Toe (Python)**
+- Classic 3x3 Tic-Tac-Toe game with two players (X and O)
+- Uses a 2D list for the board and validates moves with position tracking
+- Implements win detection for rows, columns, and diagonals
+- Enhanced with colorama for vibrant user feedback
+
+**Mind Master (Python)**
+- Code-breaking game inspired by Mastermind
+- Players guess a 4-color pattern (R, G, B) with feedback on correct positions and colors
+- Tracks guesses, coins, and history with a review option
+- Uses colorama for an engaging interface
+
+**Key Learnings:** Improved game state management, user input validation, and visual feedback design.
+
+### **Round 3 Activity 11** ✅ *(Completed: July 27, 2025 6:36 PM)*
+
+🟢 *Developed advanced simulation and voting systems in Python.*
+
+**Projects:**
+
+**Runoff Voting System (Python)**
+- Simulates a runoff voting system with ranked-choice voting
+- Handles voter preferences, vote tabulation, and candidate elimination
+- Uses pyfiglet for a professional interface and ensures robust vote validation
+
+**Offline Banking System (Python)**
+- Simulates a banking system with account creation, login, deposits, withdrawals, transfers, and transaction history
+- Uses file I/O for persistent storage of accounts and transactions
+- Implements secure user authentication and balance management
+- Enhanced with colorama and pyfiglet for user-friendly output
+
+**Key Learnings:** Mastered file-based data persistence, secure system design, and complex user interaction flows.
 ---
 
 <a name="featured-solution-highlights"></a>
@@ -199,11 +258,16 @@ Here are my implemented solutions organized by activity and completion timeline:
 - [x] `dice-game.cpp` — turn-based dice game with 4-player support
 - [x] `speed_typing_test.py` — real-time WPM and accuracy test
 - [x] `digital_root_game.py` — math-based digital ladder challenge
-
+- [x] `tictactoe.py` — interactive Tic-Tac-Toe with win detection
+- [x] `mindmaster.py` — pattern-breaking game with coin-based scoring
 
 ### 🛒 **Business Applications**
 - [x] `billing_system.cpp` — retail billing simulation  
+- [x] `imtiaz_billing_v2.cpp` — enhanced retail billing with discounts and card validation
+- [x] `parking_management_system.cpp` — parking lot management with revenue tracking
 - [x] `plurality_voting.cpp` — secure democratic voting system
+- [x] `runoff-voting.py` — ranked-choice voting simulation
+- [x] `banking-system.py` — offline banking with file-based persistence
 
 ### 🔐 **Cryptography & Security**
 - [x] `substitution.cpp` — robust substitution cipher
@@ -220,7 +284,7 @@ Here are my implemented solutions organized by activity and completion timeline:
 ### 🛠️ **Core Technologies**
 - **Languages:** C++17 & Python 3  
 - **Data Structures:** `vector`, `map`, `set`, `string`, Python `list`/`set`, `dict`   
-- **Libraries:** `<iostream>`, `<fstream>`, `<iomanip>`, `<cstdlib>`, `<ctime>`, `<algorithm>`, `random`, `time`, `os`, `pyfiglet`, `sys`
+- **Libraries:** `<iostream>`, `<fstream>`, `<iomanip>`, `<cstdlib>`, `<ctime>`, `<algorithm>`, `random`, `time`, `os`, `pyfiglet`, `sys`, `colorama`
 
 ### 🧩 **Programming Concepts Demonstrated**
 - ✅ Input Validation  
@@ -236,7 +300,10 @@ Here are my implemented solutions organized by activity and completion timeline:
 - ✅ Game Mechanics with RNG 
 - ✅ Object-Oriented Programming 
 - ✅ Turn-Based Systems  
-- ✅ Speed & Accuracy Tracking   
+- ✅ Speed & Accuracy Tracking
+- ✅ Real-World System Simulation
+- ✅ Ranked-Choice Voting Logic
+- ✅ Secure Data Persistence
 
 ---
 
@@ -264,8 +331,8 @@ You can run the programs in this repository using either C++ or Python, dependin
 **Example:**
 
 ```bash
-g++ -o mario "Round 1 Activity 1\mario_structure.cpp"
-./mario
+g++ -o imtiaz_billing "Round 2 Activity 9\imtiaz_billing_v2.cpp"
+./imtiaz_billing
 ```
 
 For the substitution cipher (requires a command-line argument):
@@ -278,8 +345,13 @@ g++ -o substitution "Round 1 Activity 4\substitution.cpp"
 ### For Python Programs
 
 1. Make sure you have Python 3 installed.
-2. Open a terminal or command prompt in the project directory.
-3. Run the Python script:
+2.  Open a terminal or command prompt in the project directory.
+3. Install required libraries (e.g., pyfiglet, colorama):
+```bash
+pip install pyfiglet colorama
+```
+4. For `banking-system.py`, ensure a `./data/` directory exists with `accounts.txt` and `transactions.txt` files.
+5. Run the Python script:
 
    ```bash
    python filename.py
@@ -307,8 +379,11 @@ python "Round 2 Activity 8\speed_typing_test.py"
 | **Round 2 Activity 6**  | ✅ Complete | July 10, 2025 10:17 PM      | 🟢 |
 | **Round 2 Activity 7**  | ✅ Complete | July 13, 2025 04:50 PM      | 🟢 |
 | **Round 2 Activity 8**  | ✅ Complete | July 16, 2025 10:10 PM      | 🟢 |
+| **Round 2 Activity 9**  | ✅ Complete | July 19, 2025 06:03 PM      | 🟢 |
+| **Round 3 Activity 10**  | ✅ Complete | July 24, 2025 06:48 PM      | 🟢 |
+| **Round 3 Activity 11**  | ✅ Complete | July 27, 2025 06:36 PM      | 🟢 |
 
-**Next Milestone:** Move to Activity 9 (Round 2 Finale)
+**Next Milestone:** Reflect on CIS Coders Arena completion and pursue advanced projects (e.g., full-stack apps, open-source contributions).
 
 ---
 
@@ -342,10 +417,23 @@ CIS-Coders-Arena/
 │   ├── dice-game.cpp  
 │   ├── main.exe  
 │   └── story.txt  
-└── Round 2 Activity 8/  
-    ├── speed_typing_test.py  
-    ├── digital_root_game.py  
-    └── text.txt
+├── Round 2 Activity 8/  
+│ ├── speed_typing_test.py  
+│ ├── digital_root_game.py  
+│ └── text.txt  
+├── Round 2 Activity 9/  
+│ ├── imtiaz_billing_v2.cpp  
+│ └── parking_management_system.cpp  
+├── Round 3 Activity 10/  
+│ ├── tictactoe.py  
+│ └── mindmaster.py  
+├── Round 3 Activity 11/  
+│ ├── runoff-voting.py  
+│ ├── banking-system.py  
+│ └── data/  
+│ ├── accounts.txt  
+│ └── transactions.txt  
+
 ---
 
 <a name="-test-cases"></a>
@@ -382,6 +470,100 @@ This section provides sample outputs and test scenarios to validate the function
 ```
 > *Observation:* Game dynamically tracks user state and writes logs to `game_log.txt`
 
+### 🛒 Imtiaz Billing System Example
+```
+============ Welcome to Imtiaz Billing System ============
+Available Products:
+Rice (5kg) - $1200
+...
+Enter Product Name: Rice (5kg)
+Enter Quantity: 2
+Product added to cart!
+...
+Cart Items:
+Product Name: Rice (5kg)
+Price: $1200
+Quantity: 2
+Total Price: $2400
+---------------------------
+Total Amount: $2400
+Enter Credit Card Number: 4111111111111111
+Enter Card Holder Name: Ali
+Enter Discount Code: SAVE10
+Discount Applied! New Total: $2160
+Payment successful! Your order has been placed.
+```
+> *Observation:* Successfully applies discounts and validates credit cards using Luhn's algorithm.
+
+### 🚗 Parking Management System Example
+```
+Parking Lot Status:
+Category: VIP
+Occupied: 2 / 10
+Category: General
+Occupied: 45 / 50
+Category: Handicapped
+Occupied: 3 / 5
+Total Revenue: $1240
+```
+> *Observation:* Tracks parking capacity and revenue accurately across categories.
+
+### 🎮 Tic-Tac-Toe Example
+```
+Current board:
+ X |   |  
+---+---+---
+   | O |  
+---+---+---
+   |   | X
+Player X, choose a position (1-9): 3
+Player X wins!
+```
+> *Observation:* Detects wins correctly and handles invalid inputs gracefully.
+
+### 🎮 Mind Master Example
+```
+🔐 Pattern generated! Try to guess it (or type QUIT to exit).
+Enter your guess (4 colors from R, G, B): RRGG
+GUESS: RRGG
+Correct Positions: 2
+Correct Colors, Wrong Positions: 1
+Coins Earned This Guess: 5
+Total Coins: 5
+```
+> *Observation:* Provides clear feedback on guesses and tracks coins effectively.
+
+### 🗳️ Runoff Voting Example
+```
+Runoff Voting
+Welcome to the Runoff Voting System!
+Voter 1:
+Rank 1 preference: Alice
+Rank 2 preference: Bob
+Rank 3 preference: Charlie
+...
+Winner: Alice
+```
+> *Observation:* Correctly processes ranked-choice votes and eliminates candidates.
+
+### 🏦 Offline Banking System Example
+```
+Offline Banking System
+1. Register an account
+2. Login to your account
+9. Exit
+Please select an option (1, 2, 9): 2
+Enter your username: testuser
+Enter your password: password123
+👋🏻 Login successful! Welcome testuser.
+Your current balance is: 0.00
+3. Deposit Money
+...
+Enter the amount to deposit: 100
+✅ Successfully deposited 100. Your new balance is 100.00.
+```
+> *Observation:* Persists account data and transactions reliably using file I/O.
+
 
 ---
 
@@ -395,7 +577,9 @@ Participating in the **CIS Coders Arena** has helped me build:
 - Communication through peer reviews  
 - A growth mindset 
 - Confidence in large project structure  
-- Cross-platform testing and file-based output 
+- Cross-platform testing and file-based output
+- Proficiency in real-world system design
+- Expertise in game mechanics and user interaction 
 
 These skills go far beyond programming — they apply to **any** technology career and show commitment to continuous learning.
 
@@ -412,7 +596,41 @@ This repository reflects my commitment to:
 
 ---
 
+<a name="victory-lap"></a>
+## 🏁 Victory Lap: Arena Conquered! 🎉
+
+The **CIS Coders Arena** is officially complete! From crafting intricate Mario patterns in Round 1 to simulating real-world systems like the Imtiaz Billing and Offline Banking in Round 3, this 11-activity journey has been a masterclass in persistence, creativity, and code craftsmanship. As a 3rd-semester student, I dove headfirst into challenges that pushed my limits—from modular C++ games to Python voting simulations—emerging with sharper analytical skills, unbreakable debugging resilience, and a toolkit ready for the real world.
+
+### 📚 Key Lessons from the Arena
+Here's what stood out as my biggest growth moments:
+
+| Lesson | Project Tie-In | Impact |
+|--------|----------------|--------|
+| **Modular Design Matters** | Text-based adventure game & Banking System | Learned to break complex logic into reusable classes—making code scalable and easier to maintain. |
+| **Real-World Simulations Rock** | Imtiaz Billing & Parking Management | Bridged theory to practice: handling discounts, Luhn's algorithm, and file persistence felt like building actual apps. |
+| **User Experience Wins Games** | Mind Master & Tic-Tac-Toe | Focused on intuitive feedback (like coin tracking and colorama visuals) to make interactions fun and forgiving. |
+| **Edge Cases Build Resilience** | Runoff Voting & Hangman | Tackling ties, invalid inputs, and randomization honed my problem-decomposition superpowers. |
+
+These aren't just wins on paper—they've fueled a growth mindset that turns "stuck" moments (remember debugging that match_pattern function?) into breakthroughs.
+
+### 💭 My Personal Journey
+As a 3rd-semester student, diving into the **CIS Coders Arena** was both daunting and exhilarating. Each activity—from Mario patterns to the digital root game—pushed me to think critically and code intentionally. I've learned that programming isn't just about solving problems; it's about telling stories through code, whether it's a game's narrative, a system's efficiency, or a voting simulation's fairness. This repository is my story of growth, resilience, and genuine passion—and I'm excited to keep writing the next chapters. Thank you for exploring my work; let's connect and code together! 🙌
+
+### 🔮 What's Next on the Horizon?
+This arena was my launchpad; now I'm geared up for bigger quests:
+- **Deep Dives**: Tackling advanced DSA projects like a supply chain ethics tracker with graphs and hashing (inspired by our earlier brainstorms).
+- **Full-Stack Adventures**: Integrating React front-ends with Django back-ends, evolving my banking sim into a web app.
+- **Community Impact**: Contributing to open-source repos and maybe even hosting mini coding arenas for fellow students.
+- **Portfolio Power-Ups**: Polishing favorites like Mind Master for hackathons—adding multiplayer or AI opponents for that extra "wow."
+
+If you're inspired by this journey, let's connect—I'm always up for collaborating on the next big idea. Thanks for exploring my arena; here's to coding with purpose and endless curiosity! 🚀
+
+![Trophy Celebration]([images/victory.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTRucDZqYmg1cnpncHF5NmNvenJ3cTc1N2ZhaGFmejRhYjRmbTI1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26u4exk4zsAqPcq08/giphy.gif))
+
 *"Stay focused and keep coding! 🚀"*  
 
 [![Connect](https://img.shields.io/badge/LinkedIn-Say%20Hi-blue?logo=linkedin)](https://www.linkedin.com/in/syeda-aliza-ayaz/)
 
+
+---
+   
